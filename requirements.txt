@@ -1,0 +1,11 @@
+tensorflow==2.9.1
+opencv-python
+numpy
+pandas
+tqdm
+requests
+fastapi
+uvicorn
+gunicorn
+docker
+prometheus_client
